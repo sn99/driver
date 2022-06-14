@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+/.idea
+/DriverCertificate.cer
+
+/windows-kernel-sys/Cargo.lock
+/windows-kernel-sys/target
+
+/windows-kernel-rs/Cargo.lock
+/windows-kernel-rs/target
